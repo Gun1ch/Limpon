@@ -1,3 +1,7 @@
-li {
-    color: green;
+body {
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+}
+h1 {
+    text-transform: uppercase;
 }
